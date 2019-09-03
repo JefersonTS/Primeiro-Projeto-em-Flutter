@@ -80,7 +80,7 @@ class MyScaffold extends StatelessWidget{
         children: <Widget>[
           MyAppBar(
             title: Text(
-              'Example Title'
+              'Example Title',
               style: Theme.of(context).primaryTextTheme.title,
             ),
           ),
